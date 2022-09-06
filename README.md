@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/d-araujo/2emib-ac1?style=flat-square)
+![GitHub](https://img.shields.io/github/license/2emib-ac1/2emib-ac1?style=flat-square)
 
 # 2emib-ac1
 Projeto de um sistema full stack
