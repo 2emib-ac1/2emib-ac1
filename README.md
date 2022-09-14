@@ -10,5 +10,5 @@ Projeto de um sistema full stack
 - Nicolle Américo - rm: 14450
 - Luiza Saracol - rm: 14832
 
-## Tema do projeto
-Esse projeto é baseado na última AT de computação gráfica, desenvolvida no figma sobre as ODS. Será uma autoria própria do time.
+## Descrição do projeto
+Esse projeto é baseado na última AT de computação gráfica, desenvolvida no figma. Será uma autoria própria do time. Basicamente, é um website que oferece conteúdos editoriais parecidos com o da imprensa tradicional, porém apresenta novas configurações
