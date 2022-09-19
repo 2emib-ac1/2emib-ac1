@@ -8,7 +8,8 @@ Projeto de um sistema full stack
 - Guilherme Cifali - rm:14880
 - Marcela Torro - rm: 15305
 - Nicolle Américo - rm: 14450
-- Luiza Saracol - rm: 14832
+- Luiza Saraçol - rm: 14832
+- Tom Vilarins Rogano - rm:15270
 
 ## Descrição do projeto
-Esse projeto é baseado na última AT de computação gráfica, desenvolvida no figma. Será uma autoria própria do time. Basicamente, é um website que oferece conteúdos editoriais parecidos com o da imprensa tradicional, porém apresenta novas configurações
+Esse projeto é baseado na última AT de computação gráfica, desenvolvida no figma. Será uma autoria própria do time. Basicamente, é um website que oferece conteúdos editoriais parecidos com o da imprensa tradicional, porém apresenta novas configurações.
