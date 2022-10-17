@@ -13,3 +13,6 @@ Projeto de um sistema full stack
 
 ## Descrição do projeto
 Esse projeto é baseado na última AT de computação gráfica, desenvolvida no figma. Será uma autoria própria do time. Basicamente, é um website que oferece conteúdos editoriais parecidos com o da imprensa tradicional, porém apresenta novas configurações.
+
+## Wireframe de Baixa Qualidade
+Segue o link de acesso para uma página no figma que contém o wireframe do projeto
