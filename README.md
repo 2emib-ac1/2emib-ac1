@@ -16,3 +16,4 @@ Esse projeto é baseado na última AT de computação gráfica, desenvolvida no 
 
 ## Wireframe de Baixa Qualidade
 Segue o link de acesso para uma página no figma que contém o wireframe do projeto
+https://www.figma.com/file/sTtPq0WuX3Q3GV7NZqZ3Ci/wireframe?node-id=0%3A1
