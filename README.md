@@ -4,7 +4,7 @@
 Projeto de um sistema full stack
 
 ## Alunos
--`Maria Eduarda Araujo - rm: 13396`
+- `Maria Eduarda Araujo - rm: 13396`
 - Guilherme Cifali - rm:14880
 - Luiza Saraçol - rm: 14832
 - Marcela Torro - rm: 15305
