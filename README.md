@@ -4,11 +4,11 @@
 Projeto de um sistema full stack
 
 ## Alunos
-- ` Maria Eduarda Araujo - rm: 13396 `
+- Líder do grupo: ` Maria Eduarda Araujo - rm: 13396 `
 - Guilherme Cifali - rm:14880
+- Luiza Saraçol - rm: 14832
 - Marcela Torro - rm: 15305
 - Nicolle Américo - rm: 14450
-- Luiza Saraçol - rm: 14832
 - Tom Vilarins Rogano - rm:15270
 
 ## Descrição do projeto
