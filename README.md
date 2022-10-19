@@ -1,4 +1,4 @@
-##Grupo
+## Grupo
 - Líder do grupo : `Maria Eduarda Araujo´
 - Guilherme Cifali
 - Luiza Ribeiro
@@ -6,7 +6,7 @@
 - Nicolle Américo
 - Tom Rogano
 
-##Descrição do Projeto
+## Descrição do Projeto
 Esse projeto é baseado na última AT de computação gráfica, desenvolvida no figma. Será uma autoria própria do time. Basicamente, é um website que oferece conteúdos editoriais parecidos com o da imprensa tradicional, porém apresenta novas configurações.
 
 ##Wireframe de Baixa Qualidade
