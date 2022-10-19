@@ -11,6 +11,7 @@ Esse projeto é baseado na última AT de computação gráfica, desenvolvida no 
 
 ## Wireframe de Baixa Qualidade
 O link a seguir enviará você para um projeto no figma, nele apresenta todas as telas do wireframe com melhores detalhes. 
+PDF das páginas estão em docs.
 https://www.figma.com/file/sTtPq0WuX3Q3GV7NZqZ3Ci/wireframe?node-id=0%3A1 
 
 ## Parte do site
