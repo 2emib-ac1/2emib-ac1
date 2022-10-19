@@ -126,9 +126,9 @@ footer {
 
 /* conteudo */
 .conteudo {
-  background: url(img/propaganda.png);
+  background: url(img/bannerprincipal.jpg);
   background-size: cover;
-  height: 100vh;
+  height: 60vh;
   background-attachment: fixed;
   background-position: center;
 }
@@ -240,6 +240,7 @@ h1 {
 .content {
   background-color: rgb(68, 68, 68);
   padding: 10px;
+  min-height: 430px;
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
@@ -254,4 +255,102 @@ h1 {
   .column {
     width: 100%;
   }
+}
+
+
+
+
+
+/* palpalap  codes */
+
+.tempo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.tempoum {
+  background-color: gray;
+  height: 420px;
+  width: 400px;
+  border: 0.4px solid black;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.tempoum img {
+  width: 60px;
+}
+
+.tempodois img {
+  width: 380px;
+}
+
+.box-tempo {
+  background-color: #808080;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  height: 400px;
+  width: 450px;
+  border-radius: 4px;
+  border: 0.4px solid black;
+}
+
+.box-tempo h2 {
+  margin-top: 15px;
+}
+
+.img-tempo img {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  justify-content: start;
+  align-self: flex-start;
+}
+
+.img-tempo {
+  margin-top: 20px;
+  width: 350px;
+  height: 60px;
+}
+
+.linha-vertical{
+    height: 500px;/*Altura da linha*/
+    border-left: 2px solid;/* Adiciona borda esquerda na div como ser fosse uma linha. pedro cobras*/
+    display: flex;
+  }
+
+.enviar{
+  display: flex;
+}
+
+
+/* button foda del juan */
+
+.buttonfoda {
+  padding: 10px 30px;
+  font-size: 15px;
+  color: white;
+  background-color: #60a060;
+  border: 5px solid transparent;
+  transition: .2s ease;
+  border-radius: 8px;
+}
+
+.buttonfoda:hover {
+  color: #ffffff;
+  background-color: #00791a;
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.maah-chata-com-botao-no-final {
+  display: flex;
+  flex-direction: row-reverse;
 }
