@@ -5,7 +5,8 @@
             alt="CSS válido!" />
     </a>
 </p>
-      
+
+![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2F2emib-ac1.github.io%2F2emib-ac1%2F)
 
 ## Grupo
 - Líder do grupo : `Maria Eduarda Araujo`
