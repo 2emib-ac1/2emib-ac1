@@ -44,7 +44,7 @@ Esse projeto é baseado na última AT de computação gráfica, desenvolvida no 
 ## Wireframe de Baixa Qualidade
 O link a seguir enviará você para um projeto no figma, nele apresenta todas as telas do wireframe com melhores detalhes. 
 - PDF das páginas estão em docs.
-https://www.figma.com/file/sTtPq0WuX3Q3GV7NZqZ3Ci/wireframe?node-id=0%3A1 
+- https://www.figma.com/file/sTtPq0WuX3Q3GV7NZqZ3Ci/wireframe?node-id=0%3A1 
 
 ## Mongoose
 ![image](https://user-images.githubusercontent.com/84139806/196740348-a677dc5a-bb5a-47c2-849c-fa1ad93cc219.png)
