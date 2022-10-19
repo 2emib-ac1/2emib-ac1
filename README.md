@@ -1,5 +1,5 @@
 ## Grupo
-- Líder do grupo : `Maria Eduarda Araujo´
+- Líder do grupo : `Maria Eduarda Araujo`
 - Guilherme Cifali
 - Luiza Ribeiro
 - Marcela Torro
